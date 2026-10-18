@@ -15,6 +15,7 @@
 1. ЗАПУСК
 --------------------------------------------------------------------------------
 
+pip install -r requirements.txt
 requirements.txt - Python 3, torch, kornia, numpy, pandas, matplotlib. 
 
   1. Положить mnist_train.csv и mnist_test.csv рядом с ноутбуком.
